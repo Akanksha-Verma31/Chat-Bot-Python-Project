@@ -96,4 +96,5 @@ Creating a new widget doesn’t mean that it will appear on the screen. To displ
 - [x] Fixing Bugs
 - [ ] Documentation
 
+
 [^1]: The project is developed by Akanksha Verma and Nikhil Kumar under 3rd semester for python(INT 213).
