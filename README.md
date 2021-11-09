@@ -11,6 +11,20 @@ The approach is inspired by the articles/videos mentioned below:
 - Misbah Mohammed [https://youtu.be/uN50y7L_6Qk].
 - Python Engineer [https://youtu.be/RNEcewpVZUQ].
 
+
+
+## Topics Covered
+1. Modules: tkinter, random
+2. Class
+3. Dictionary & lists
+4. Format specifiers
+5. GUI 
+6. User-defined functions
+7. Built-in functions
+8. Conditionals & iterations
+9. DOC Strings
+10. F-strings
+
 ## What is a ChaT Bot?
 <p>
 Chatbots, as the name suggests, are computer programs built to simulate human conversations— whether that is on a website, a messaging app, or a virtual assistant. With today’s customers expecting immediacy and personalization in their interactions with brands, the addition of chatbots as a communication channel has become critical to business growth.
@@ -42,3 +56,42 @@ name = "Funny Bot 101"
     mood = "Happy"
 ```
 ...and 'responses' as in the form of a 'dictionary' having keys as string and value as in the form of list.
+```console
+responses = {
+        "Hi": [
+            "Hi, there...",
+            "Hello Dear...",
+            "Hello Dear LPU Student..."], ...
+```
+After defining class variables we have created an constructor to create a tkinter window automatically when its object is created
+```console
+def __init__(self):
+```
+## Tkinter widgets
+- Button: If you want to add a button in your application then Button widget will be used.
+- Entry: To display a single-line text field that accepts values from the user Entry widget will be used.
+- Frame: In order to group and organize another widgets Frame widget will be used. Basically it acts as a container that holds other widgets.
+- Label: To Provide a single line caption to another widget Label widget will be used. It can contain images too.It is used to display text or image on the screen
+- Scrollbar: To scroll the window up and down the scrollbar widget in python will be used.
+- Text: The text widget mainly provides a multi-line text field to the user where users and enter or edit the text and it is different from Entry.
+## Geometry Management
+Creating a new widget doesn’t mean that it will appear on the screen. To display it, we need to call a special method: either grid, pack(example above), or place. 
+| Method | Description |
+| ----------- | ----------- |
+| pack() | The Pack geometry manager packs widgets in rows or columns. |
+| grid() | The Grid geometry manager puts the widgets in a 2-dimensional table. The master widget is split into a number of rows and columns, and each “cell” in the resulting table can hold a widget. |
+| place() | The Place geometry manager is the simplest of the three general geometry managers provided in Tkinter. It allows you explicitly set the position and size of a window, either in absolute terms, or relative to another window. |
+
+## Task Completed
+- [x] Team formation
+- [x] Topic
+- [x] Planning
+- [x] Research
+- [x] Requirement Gathering & Analysis
+- [x] Design
+- [x] Implementation(coding)
+- [x] Testing
+- [x] Fixing Bugs
+- [ ] Documentation
+
+[^1]: The project is developed by Akanksha Verma and Nikhil Kumar under 3rd semester for python(INT 213).
