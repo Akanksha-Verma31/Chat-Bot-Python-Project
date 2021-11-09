@@ -12,8 +12,8 @@ The approach is inspired by the articles/videos mentioned below:
 - Python Engineer [https://youtu.be/RNEcewpVZUQ].
 
 ## Flow of Program
-### Login Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Generic Chatroom &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Covid Chatroom
-<img src="login.png" alt="independence" width="300" height="250">  &nbsp; <img src="generic.png" alt="independence" width="310" height="250"> &nbsp; <img src="covid bot.png" alt="independence" width="310" height="250">
+### Login Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Generic Chatroom &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Covid Chatroom
+<img src="login.png" alt="independence" width="300" height="250">  &nbsp; <img src="generic.png" alt="independence" width="300" height="250"> &nbsp; <img src="covid bot.png" alt="independence" width="300" height="250">
 
 ## Topics Covered
 1. Modules: tkinter, random
