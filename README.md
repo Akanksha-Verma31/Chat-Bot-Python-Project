@@ -11,7 +11,9 @@ The approach is inspired by the articles/videos mentioned below:
 - Misbah Mohammed [https://youtu.be/uN50y7L_6Qk].
 - Python Engineer [https://youtu.be/RNEcewpVZUQ].
 
-
+## Flow of Program
+### Login Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Generic Chatroom &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Covid Chatroom
+<img src="login.png" alt="independence" width="300" height="250">  &nbsp; <img src="generic.png" alt="independence" width="310" height="250"> &nbsp; <img src="covid bot.png" alt="independence" width="310" height="250">
 
 ## Topics Covered
 1. Modules: tkinter, random
@@ -25,7 +27,7 @@ The approach is inspired by the articles/videos mentioned below:
 9. DOC Strings
 10. F-strings
 
-## What is a ChaT Bot?
+## What is a Chat Bot?
 <p>
 Chatbots, as the name suggests, are computer programs built to simulate human conversations— whether that is on a website, a messaging app, or a virtual assistant. With today’s customers expecting immediacy and personalization in their interactions with brands, the addition of chatbots as a communication channel has become critical to business growth.
 </p>
