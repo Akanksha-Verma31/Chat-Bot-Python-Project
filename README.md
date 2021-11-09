@@ -13,7 +13,7 @@ The approach is inspired by the articles/videos mentioned below:
 
 ## Flow of Program
 ### Login Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Generic Chatroom &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Covid Chatroom
-<img src="login.png" alt="independence" width="270" height="250">  &nbsp; <img src="generic.png" alt="independence" width="290" height="250"> &nbsp; <img src="covid bot.png" alt="independence" width="290" height="250">
+<img src="login.png" alt="independence" width="250" height="250">  &nbsp; <img src="generic.png" alt="independence" width="290" height="250"> &nbsp; <img src="covid bot.png" alt="independence" width="290" height="250">
 
 ## Topics Covered
 1. Modules: tkinter, random
