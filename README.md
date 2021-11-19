@@ -3,7 +3,7 @@ Simple chatbot implementation with the help of same basic library modules
 
 - The implementation should be easy to follow for beginners and provide a basic understanding of chatbots.
 - The implementation is straightforward with lists of some predefined responses.
-- Customization for your own use case is super easy. Just modify `responses`(list) with possible patterns and responses and re-run the main_bot.py (see below for more info).
+- Customization for your own responses is super easy. Just modify `responses`(list) with possible patterns and responses and re-run the main_bot.py (see below for more info).
 
 The approach is inspired by the articles/videos mentioned below:
 - Basic infomation about chatbot [https://www.freshworks.com/live-chat-software/chatbots/what-is-a-chatbot/].
